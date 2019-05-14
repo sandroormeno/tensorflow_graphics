@@ -3,6 +3,7 @@ Hace unos días Tensorflow  liberó  una paquetería complementaria para el  man
 
 
 <img src="https://github.com/sandroormeno/tensorflow_graphics/blob/master/Captura.JPG" width=600 />
+<img src="https://github.com/sandroormeno/tensorflow_graphics/blob/master/vertex color.JPG" width=600 />
 
 
 https://github.com/tensorflow/graphics/
